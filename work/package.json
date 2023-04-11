@@ -1,0 +1,26 @@
+{
+  "name": "week2-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server --watch db.json --port 4000"
+  },
+  "keywords": [
+    "\"cutest\"\"animal\""
+  ],
+  "author": "Cassie",
+  "license": "ISC"
+
+  }
+  
+
+
+
+
+
+
+
+
+
+
